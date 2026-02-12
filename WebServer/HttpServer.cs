@@ -66,6 +66,8 @@ namespace WebServer.Server
 
         private string ReadRequest(NetworkStream networkStream)
         {
+
+
             var bufferLingth = 1024;
             var buffer = new byte[bufferLingth];
             var requestBuilder = new StringBuilder();

@@ -7,12 +7,20 @@
       "RelativeMoniker": "D:0:0:{19D4904F-ABBB-4A1E-BEA2-3368A1B72A7D}|WebServer.csproj|solutionrelative:http\\header.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{19D4904F-ABBB-4A1E-BEA2-3368A1B72A7D}|WebServer.csproj|c:\\users\\hp\\onedrive\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438\\github\\webserver\\webserver\\contracts\\iroutingtable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{19D4904F-ABBB-4A1E-BEA2-3368A1B72A7D}|WebServer.csproj|solutionrelative:contracts\\iroutingtable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{19D4904F-ABBB-4A1E-BEA2-3368A1B72A7D}|WebServer.csproj|c:\\users\\hp\\onedrive\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438\\github\\webserver\\webserver\\responses\\textresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19D4904F-ABBB-4A1E-BEA2-3368A1B72A7D}|WebServer.csproj|solutionrelative:responses\\textresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{19D4904F-ABBB-4A1E-BEA2-3368A1B72A7D}|WebServer.csproj|c:\\users\\hp\\onedrive\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438\\github\\webserver\\webserver\\httpserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{19D4904F-ABBB-4A1E-BEA2-3368A1B72A7D}|WebServer.csproj|solutionrelative:httpserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19D4904F-ABBB-4A1E-BEA2-3368A1B72A7D}|WebServer.csproj|c:\\users\\hp\\onedrive\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438\\github\\webserver\\webserver\\http\\routingtable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19D4904F-ABBB-4A1E-BEA2-3368A1B72A7D}|WebServer.csproj|solutionrelative:http\\routingtable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19D4904F-ABBB-4A1E-BEA2-3368A1B72A7D}|WebServer.csproj|c:\\users\\hp\\onedrive\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438\\github\\webserver\\webserver\\contracts\\iroutingtable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19D4904F-ABBB-4A1E-BEA2-3368A1B72A7D}|WebServer.csproj|solutionrelative:contracts\\iroutingtable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{19D4904F-ABBB-4A1E-BEA2-3368A1B72A7D}|WebServer.csproj|c:\\users\\hp\\onedrive\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438\\github\\webserver\\webserver\\webserver.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
@@ -25,10 +33,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{19D4904F-ABBB-4A1E-BEA2-3368A1B72A7D}|WebServer.csproj|c:\\users\\hp\\onedrive\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438\\github\\webserver\\webserver\\responses\\unauthorizedresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{19D4904F-ABBB-4A1E-BEA2-3368A1B72A7D}|WebServer.csproj|solutionrelative:responses\\unauthorizedresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{19D4904F-ABBB-4A1E-BEA2-3368A1B72A7D}|WebServer.csproj|c:\\users\\hp\\onedrive\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438\\github\\webserver\\webserver\\responses\\textresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{19D4904F-ABBB-4A1E-BEA2-3368A1B72A7D}|WebServer.csproj|solutionrelative:responses\\textresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{19D4904F-ABBB-4A1E-BEA2-3368A1B72A7D}|WebServer.csproj|c:\\users\\hp\\onedrive\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438\\github\\webserver\\webserver\\responses\\redirectresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -53,10 +57,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{19D4904F-ABBB-4A1E-BEA2-3368A1B72A7D}|WebServer.csproj|c:\\users\\hp\\onedrive\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438\\github\\webserver\\webserver\\http\\responce.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{19D4904F-ABBB-4A1E-BEA2-3368A1B72A7D}|WebServer.csproj|solutionrelative:http\\responce.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{19D4904F-ABBB-4A1E-BEA2-3368A1B72A7D}|WebServer.csproj|c:\\users\\hp\\onedrive\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438\\github\\webserver\\webserver\\http\\routingtable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{19D4904F-ABBB-4A1E-BEA2-3368A1B72A7D}|WebServer.csproj|solutionrelative:http\\routingtable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{19D4904F-ABBB-4A1E-BEA2-3368A1B72A7D}|WebServer.csproj|c:\\users\\hp\\onedrive\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438\\github\\webserver\\webserver\\http\\request.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -88,27 +88,26 @@
               "RelativeDocumentMoniker": "HttpServer.cs",
               "ToolTip": "C:\\Users\\HP\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438\\GitHub\\WebServer\\WebServer\\HttpServer.cs",
               "RelativeToolTip": "HttpServer.cs",
-              "ViewState": "AgIAADQAAAAAAAAAAAAowEMAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAADQAAAAAAAAAAAAowEUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-12T07:07:15.587Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "WebServer",
+              "DocumentIndex": 5,
+              "Title": "WebServer.csproj",
               "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438\\GitHub\\WebServer\\WebServer\\WebServer.csproj",
               "RelativeDocumentMoniker": "WebServer.csproj",
               "ToolTip": "C:\\Users\\HP\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438\\GitHub\\WebServer\\WebServer\\WebServer.csproj",
               "RelativeToolTip": "WebServer.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-02-12T07:06:20.49Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-12T07:06:20.49Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "IRoutingTable.cs",
               "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438\\GitHub\\WebServer\\WebServer\\Contracts\\IRoutingTable.cs",
               "RelativeDocumentMoniker": "Contracts\\IRoutingTable.cs",
@@ -116,12 +115,11 @@
               "RelativeToolTip": "Contracts\\IRoutingTable.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-12T07:05:44.024Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-12T07:05:44.024Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "UnauthorizedResponse.cs",
               "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438\\GitHub\\WebServer\\WebServer\\Responses\\UnauthorizedResponse.cs",
               "RelativeDocumentMoniker": "Responses\\UnauthorizedResponse.cs",
@@ -129,12 +127,11 @@
               "RelativeToolTip": "Responses\\UnauthorizedResponse.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-12T07:04:02.238Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-12T07:04:02.238Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 1,
               "Title": "TextResponse.cs",
               "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438\\GitHub\\WebServer\\WebServer\\Responses\\TextResponse.cs",
               "RelativeDocumentMoniker": "Responses\\TextResponse.cs",
@@ -147,7 +144,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "RedirectResponse.cs",
               "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438\\GitHub\\WebServer\\WebServer\\Responses\\RedirectResponse.cs",
               "RelativeDocumentMoniker": "Responses\\RedirectResponse.cs",
@@ -155,12 +152,11 @@
               "RelativeToolTip": "Responses\\RedirectResponse.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-12T07:02:20.251Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-12T07:02:20.251Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "NotFoundResponse.cs",
               "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438\\GitHub\\WebServer\\WebServer\\Responses\\NotFoundResponse.cs",
               "RelativeDocumentMoniker": "Responses\\NotFoundResponse.cs",
@@ -168,12 +164,11 @@
               "RelativeToolTip": "Responses\\NotFoundResponse.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-12T07:01:53.067Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-12T07:01:53.067Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "HtmlResponse.cs",
               "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438\\GitHub\\WebServer\\WebServer\\Responses\\HtmlResponse.cs",
               "RelativeDocumentMoniker": "Responses\\HtmlResponse.cs",
@@ -181,12 +176,11 @@
               "RelativeToolTip": "Responses\\HtmlResponse.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-12T07:01:17.502Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-12T07:01:17.502Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "BadRequestResponse.cs",
               "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438\\GitHub\\WebServer\\WebServer\\Responses\\BadRequestResponse.cs",
               "RelativeDocumentMoniker": "Responses\\BadRequestResponse.cs",
@@ -194,12 +188,11 @@
               "RelativeToolTip": "Responses\\BadRequestResponse.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-12T07:00:42.604Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-12T07:00:42.604Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "StatusCode.cs",
               "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438\\GitHub\\WebServer\\WebServer\\HTTP\\StatusCode.cs",
               "RelativeDocumentMoniker": "HTTP\\StatusCode.cs",
@@ -207,25 +200,24 @@
               "RelativeToolTip": "HTTP\\StatusCode.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-12T06:58:58.827Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-12T06:58:58.827Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 3,
               "Title": "RoutingTable.cs",
               "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438\\GitHub\\WebServer\\WebServer\\HTTP\\RoutingTable.cs",
               "RelativeDocumentMoniker": "HTTP\\RoutingTable.cs",
               "ToolTip": "C:\\Users\\HP\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438\\GitHub\\WebServer\\WebServer\\HTTP\\RoutingTable.cs",
               "RelativeToolTip": "HTTP\\RoutingTable.cs",
-              "ViewState": "AgIAAEAAAABgZmZmZmY4wE4AAAAyAAAAAAAAAA==",
+              "ViewState": "AgIAAC0AAABwMzMzMzMwwE4AAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-12T06:58:15.038Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "Responce.cs",
               "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438\\GitHub\\WebServer\\WebServer\\HTTP\\Responce.cs",
               "RelativeDocumentMoniker": "HTTP\\Responce.cs",
@@ -233,8 +225,7 @@
               "RelativeToolTip": "HTTP\\Responce.cs",
               "ViewState": "AgIAAAQAAACAZmZmZmYswBUAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-12T06:56:09.659Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-12T06:56:09.659Z"
             },
             {
               "$type": "Document",
@@ -246,8 +237,7 @@
               "RelativeToolTip": "HTTP\\Request.cs",
               "ViewState": "AgIAAAoAAABAMzMzMzM9wBsAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-10T07:43:24.349Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-10T07:43:24.349Z"
             },
             {
               "$type": "Document",
@@ -259,8 +249,7 @@
               "RelativeToolTip": "HTTP\\Method.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-10T07:43:01.312Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-10T07:43:01.312Z"
             },
             {
               "$type": "Document",
@@ -272,8 +261,7 @@
               "RelativeToolTip": "HTTP\\HeaderCollection.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-10T07:42:38.692Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-10T07:42:38.692Z"
             },
             {
               "$type": "Document",
@@ -283,14 +271,14 @@
               "RelativeDocumentMoniker": "HTTP\\Header.cs",
               "ToolTip": "C:\\Users\\HP\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438\\GitHub\\WebServer\\WebServer\\HTTP\\Header.cs",
               "RelativeToolTip": "HTTP\\Header.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-10T07:42:07.293Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "Guard.cs",
               "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438\\GitHub\\WebServer\\WebServer\\Common\\Guard.cs",
               "RelativeDocumentMoniker": "Common\\Guard.cs",
@@ -298,8 +286,7 @@
               "RelativeToolTip": "Common\\Guard.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-10T07:40:31.82Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-10T07:40:31.82Z"
             }
           ]
         }
